@@ -1,0 +1,8 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) Os número são ímpares consecutivos. O próximo número seria 9.
+b) Cada número é o dobro do número anterior. O próximo número seria 128.
+c) Cada número é o quadrado do número natural correspondente. O próximo número seria 49.
+d) Cada número é o quadrado do número par consecutivo. O próximo número seria 100.
+e) Cada número é a soma dos dois números anteriores na sequência de Fibonacci. O próximo número seria 13.
+f) A sequência começa com os dígitos dos números em inglês: two (2), ten (10), twelve (12), sixteen (16), seventeen (17), eighteen (18), nineteen (19). O próximo número seria twenty (20).
